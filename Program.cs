@@ -236,3 +236,4 @@ void PrintArray(int[] array)
 {
     Console.WriteLine($"Массив: [{string.Join(", ", array)}]");
 }
+
